@@ -29,7 +29,7 @@ _Tip: You could attempt to mask these instructions within a sea of text. The iss
 
 ## 6. Payload manipulation
 
-  If the model uses rule based filtering attacks, it may be possible to bypass the control by modifying the payload. You can attempt to replace some of the suspected blacklisted keywords with some of the following methods listed below:
+  If the model uses rule based filtering attacks, it may be possible to bypass the control by modifying the payload. You can attempt to replace some of the suspected blacklisted keywords (e.g., Instructions, Flag etc) with some of the following methods listed below:
 + Homoglyph attacks -> Homoglyphs are characters that resemble each other, such as the `letter O and zero (‘0’), the Latin letter “H” and the Cyrillic letter “H,”`.
 + [Emoji](https://vistasocial.com/social-media-tools/text-to-emoji-translator/) substitution -> `What is the weather in Singapore = ❓☀️🌦️🇸🇬` 
 
